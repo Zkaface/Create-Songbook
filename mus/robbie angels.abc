@@ -1,0 +1,128 @@
+X: 1
+T: robbie williams-angels (3:58)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: robbie_williams-angels.mid
+%  Transpose: 4
+L: 1/4
+Q: 76
+K: C
+
+z35/4 [^G,4c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2]
+[c/2^d^g] [^G^A/4] ^c/4 [^G,4=c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2]
+[c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2] [^G,4c^d^gz/2] [^Gz/2]
+[c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2] [c^d^gz/2] [^G^A/4] ^c/4
+[^G,4=c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2]
+[c^d^gz/2] [^Gz/2] [^C,4^C4^cf^gz/2] [^Gz/2] [^cf^gz/2] [^Gz/2]
+[^c3/2f^gz/2] [^Gz/2] [=c/2f^g] [^Gc/2] [^D,4^D4^d=g^a^A/2] [^Az/2]
+[^dg^az/2] [^Az/2] [^dg^az/2] [^Az/2] [^dg^az/2] [^Az/2]
+[^G,4c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2]
+[c^d^gz/2] [^G^A/4] ^c/4 [^G,4=c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2]
+[c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2] [^C,4^C4^cf^gz/2] [^Gz/2]
+[^cf^gz/2] [^Gz/2] [^c3/2f^gz/2] [^Gz/2] [=c/2f^g] [^Gc/2]
+[^D,4^D4^d=g^a^A/2] [^Az/2] [^dg^az/2] [^Az/2] [^dg^az/2] [^Az/2]
+[^dg^az/2] ^A/2 [^A,4^A^cf^G/2] [^Gz/2] [^A^cfz/2] [^Gz/2] [^A^cfz/2]
+[^Gz/2] [^A^cfz/2] [^Gz/2] [^C,4^C4^cf^gz/2] [^Gz/2] [^cf^gz/2]
+[^Gz/2] [^cf^gz/2] [^Gz/2] [^cf^gz/2] [^Gz/2] [F,4F4=cf^gz/2] [^Gz/2]
+[cf^gz/2] [^Gz/2] [cf^gz/2] [^Gz/2] [cf^gz/2] [^Gz/2]
+[^C,4^C4^cf^gz/2] [^Gz/2] [^cf^gz/2] [^Gz/2] [^cf^gz/2] [^Gz/2]
+[^cf^gz/2] [^Gz/2] [^F,4^F/2^A^c^f] [^Fz/2] [^A^c^fz/2] [^Fz/2]
+[^A^c^fz/2] [^Fz/2] [^A^c^fz/2] [^Fz/2] [=F,4=F/2^G^c=f] [Fz/2]
+[^G^cfz/2] [Fz/2] [^G^cfz/2] [Fz/2] [^G^cfz/2] [Fz/2] [^G,8=c^d^gz/2]
+[^Gz/2] [c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2] [c^d^gz/2] ^G/2
+[^F,2^F2^A2^c2^f2] [=F,2=F5/2^G2^c2=f2] [^G,4=c^d^gz/2] [^Gz/2]
+[c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2] [c^d^gz/2] [^Gz/2]
+[^D,^D4^A^d=gz/2] [=Gz/2] [^A^dg^D,z/2] [Gz/4] ^A,/4 [^A^dg^D,/2]
+[G^D,3/2z/2] [^A^dgz/2] [Gz/2] [F,F4cf^gz/2] [^Gz/2] [cf^gF,z/2]
+[^Gz/4] =C,/4 [cf^gF,/2] [^GF,3/2z/2] [cf^gz/2] [^Gz/2]
+[^C,^C4^cf^gz/2] [^Gz/2] [^cf^g^C,z/2] [^Gz/4] ^G,/4 [^cf^g^C,/2]
+[^G^C,3/2z/2] [^cf^gz/2] [^Gz/2] [^G,=c^d^gz/2] [^Gz/2] [c^d^g^G,z/2]
+[^Gz/4] ^D,/4 [c^d^g^G,/2] [^G^G,3/2z/2] [c^d^gz/2] [^Gz/2]
+[^D,^D4^A^d=gz/2] [=Gz/2] [^A^dg^D,z/2] [Gz/4] ^A,/4 [^A^dg^D,/2]
+[G^D,3/2z/2] [^A^dgz/2] [Gz/2] [F,F4cf^gz/2] [^Gz/2] [cf^gF,z/2]
+[^Gz/4] =C,/4 [cf^gF,/2] [^GF,3/2z/2] [cf^gz/2] [^Gz/2]
+[^C,^C4^cf^gz/2] [^Gz/2] [^cf^g^C,z/2] [^Gz/4] ^G,/4 [^cf^g^C,/2]
+[^G^C,3/2z/2] [^cf^g5z/2] ^G/2 [=C,=C4=c^d^G/2] ^G/2 [c^d^G/2C,]
+[^G/2z/4] =G,/4 [c^d^G/2C,/2] [^G/2C,3/2] [c^d^G/2] [^Gz/2]
+[^A,^A^cf^a3z/2] [Fz/2] [^A3^cf^A,3z/2] [F5/2z/2] [^cf2z/2]
+[c'/2^d/2] [^a^cz/2] [^g/2c'/2=c/2] [^F,2^F/8^A2^c/8^f/8^A,2]
+[^F2^c15/8^f2^a17/8] [=F,2=F2^G/8^c/8=f/8^g/4] [^G15/8^c2f2z/8] ^g7/4
+[^G,4^G9/2=c/8^d/8^g/8C81/8] [c31/8^d31/8^g31/8] [^G,c^d^gc'8z/2]
+[^Gz/2] [c^d^g^G,z/2] [^Gz/4] ^D,/4 [c^d^g^G,/2] [^G^G,3/2z/2]
+[c^d^gz/2] [^G^A/4] ^c/4 [^G,=c^d^gz/2] [^Gz/2] [c^d^g^G,z/2] [^Gz/4]
+^D,/4 [c^d^g^G,/2z/8] [C81/8z3/8] [^G^G,13/4z/2] [c4^d5^gz/2] [^Gz/2]
+[^C,^C4^cf^gz/2] [^Gz/2] [^cf^g^C,z/2] [^Gz/4] [^G,25/4z/4]
+[^c3/2f^g^C,/2] [^G^C,3/2z/2] [=c/2f^g5] [^G5c9/2c'/2]
+[^D,^D4^d=g^a^A/2] [^Az/2] [^dg^a^D,3/4z/2] [^Az/4] [^D,3/4z/4]
+[^dg^a^A,/2] [^A^D,3/2z/2] [^dg^az/2] [^Az/2] [^G,c^d^gc'8z/4]
+[=C81/8z/4] [^Gz/2] [c^d^g^G,z/2] [^Gz/4] ^D,/4 [c^d^g^G,/2]
+[^G^G,3/2z/2] [c^d^gz/2] [^G^A/4] ^c/4 [^G,=c^d^gz/2] [^Gz/2]
+[c^d^g^G,z/2] [^Gz/4] ^D,/4 [c^d^g^G,/2] [^G^G,13/4z/2] [c4^d5^gz/2]
+[^Gz/2] [^C,^C4^cf^gz/2] [^Gz/2] [^cf^g^C,z/2] [^Gz/4] [^G,81/8z/4]
+[^c3/2f^g^C,/2z3/8] [=C81/8z/8] [^G^C,3/2z/2] [=c/2f^g9]
+[^G17/2c81/8c'/2] [^D,^D4^d=g^a^A/2] [^Az/2] [^dg^a^D,z/2] [^Az/4]
+^A,/4 [^dg^a^D,/2] [^A^D,3/2z/2] [^d9g^az/2] ^A/2 [^F,^F/2^A^c^f^a4]
+[^Fz/2] [^A^c^f^F,z/2] [^Fz/4] ^C,/4 [^A^c^f^F,/2] [^F^F,3/2z/2]
+[^A^c^fz/2] [^Fz3/8] [^G,33/8z/8] [=F,=F/2^G^c=f^g9/8] [C81/8Fz/2]
+[^G^cfF,z/8] [^g23/8z3/8] [Fz/8] [=c19/8z/8] ^C,/4 [^G^cfF,/2]
+[FF,3/2z/2] [^G3/2^cfz/2] [Fz/2] [^G,=c^d^gc'4z/2] [^Gz/2]
+[c^d^g^G,z/2] [^Gz/4] ^D,/4 [c^d^g^G,/2] [^G^G,11/2z/2] [c5^d5^g3z/2]
+[^G5/2z/2] [^F,2^A^c^f2^a2z/2] [^Fz/2] [^A^cz/2] [^Fz/2]
+[=F,2^G^c=f2^g2z/2] [=Fz/8] [C81/8z3/8] [^G3/2^cz/2] [Fz/2]
+[^G,=c^d^gc'4z/2] [^Gz/2] [c^d^g^G,z/2] [^Gz/4] ^D,/4 [c^d^g^G,/2]
+[^G^G,81/8z/2] [c5^d^g5z/2] [^G5z/2] [^D,^D4^A^d=gz/2] [=Gz/2]
+[^A^dg^D,z/2] [Gz/4] ^A,/4 [^A^dg^D,/2] [G^D,3/2z/2] [^A^d9gz/2]
+[Gz/2] [F,F4cf^gz/2] [^Gz/4] [C81/8z/4] [cf^gF,z/2] [^Gz/4] =C,/4
+[cf^gF,/2] [^GF,3/2z/2] [c5f^gz/2] [^Gz/2] [^C,^C4^cf^gz/2] [^Gz/8]
+[^G,9/8z3/8] [^cf^g^C,z/2] [^Gz/4] [^G,9/4z/4] [^cf^g^C,/2]
+[^G^C,3/2z/2] [^cf^gz/2] [^Gz/2] [^G,=c^d^gz/2] [^Gz/2] [c^d^g^G,z/2]
+[^Gz/4] ^D,/4 [c^d^g^G,/2] [^G^G,81/8z3/8] [=C81/8z/8] [c5^d^g5z/2]
+[^G5z/2] [^D,^D4^A^d=gz/2] [=Gz/2] [^A^dg^D,z/2] [Gz/4] ^A,/4
+[^A^dg^D,/2] [G^D,3/2z/2] [^A^d9gz/2] [Gz/2] [F,F4cf^gz/2] [^Gz/2]
+[cf^gF,z/2] [^Gz/4] =C,/4 [cf^gF,/2] [^GF,3/2z/2] [c5f^gz/2] [^Gz/2]
+[^C,^C4^cf^gz/2] [^Gz/8] [^G,9/8z3/8] [^cf=C3^g^C,z/2] [^Gz/4]
+[^G,81/8z/4] [^cf^g^C,/2] [^G^C,3/2z/2] [^cf^g17/2z/2] ^G/2
+[=C,C8=c^d^G/2] ^G/2 [c^d^G/2C,] [^G/2z/4] =G,/4 [c^d^G/2C,/2]
+[^G/2C,3/2] [c9/2^d7/2^G/2] [^G37/8z/2] [^A,^A^cf^a3z/2] [Fz/2]
+[^A3^cf^A,3z/2] [F5/2z/2] [^cf2z/2] [c'/2^d13/8] [^a^cz/2]
+[^g5/8c'/2=c5/8z3/8] ^G,/8 [^F,2^F/8^A2^c/8^f/8^A,2]
+[^F2^c15/8^f2^a17/8] [=F,2=F2^G/8^c/8=f/8^g/4] [^G19/8^c79/8f43/8z/8]
+^g7/4 [^G,=c^d^gc'4z/2] [^Gz/2] [c^d^g^G,z/2] [^Gz/4] ^D,/4
+[c^d^g^G,/2] [^G^G,29/4^a/2] [c^d^g/4^a/4] [^g3/4z/4] [^G9/2f4z/2]
+[^D,^D31/8^A^d^fz/2] [^Fz/2] [^A^d^f^D,z/2] [^Fz/4] ^A,/4
+[^A^d^f^D,/2] [^F^D,3/2^a/2] [^A^d^f^az/4] [^g3/4z/4] [^F=f/2z3/8]
+^C/8 [^C,^G^c/4f^C/8^g13/4] [^C31/8z/8] [^c3/4z/4] [=Fz/2]
+[^G^cf^C,z/2] [Fz/4] [^G,9/4z/4] [^G^cf^C,/2] [F^C,3/2^a/2]
+[^G^c9f/2^a/4] [^g3/4z/4] [Ff8z/2] [^G,=c^d^g^G/2] [^Gz/2]
+[c^d^g^G,z/2] [^Gz/4] ^D,/4 [c^d^g^G,/2] [^G^G,3/2z/2] [c^d^gz/2]
+[^Gz3/8] [^f/2z/8] [^G,c^d^g3/8] [^g5/8z/8] [^Gz/2] [c^d^g^G,z3/8]
+[^a9/8z/8] [^Gz/4] ^D,/4 [c^d^g^G,/2z/8] [^C47/8z3/8]
+[^G^G,19/2c'3/2^a/2] [c^d^g/4^a/4] [^g3/4z/4] [^G17/2=f4z/2]
+[^D,^D4^A^d^fz/2] [^Fz/2] [^A^d^f^D,z/8] [^c23/8z3/8] [^Fz/4] ^A,/4
+[^A^d^f^D,/2] [^F^D,3/2^a/2] [^A^d^f^a/4] [^g3/4z/4] [^F=f/2]
+[^A,^A^cf^C8z/2] [=Fz/2] [^A^cf^A,z/2] [Fz/4] F,/4 [^A^cf^A,/2]
+[F^A,3/2^a/2] [^A^c41/8f/2^a/4] [^g3/4z/4] [Ff37/8z/2]
+[^G,5/8=c^d^g=C,^G/2] [^Gz/8] [^G,9/8z3/8] [c^d^gC,3/4z/2] [^Gz/4]
+[^G,9/4z/4] [c^d^gC,/2] [^GC,3/2z/2] [c^d^g9/8z/2] [^Gz/2]
+[^D,^D2^A^d/8=g/8^a/8] [^d7/8g7/8^a2z3/8] [=Gz/2] [^A^dg^D,z/2]
+[G/2z/4] ^A,/4 [^A^d/8g/8^D,/2^A,2^D2] [^d7/8g7/8^a2z3/8]
+[G^D,3/2z/2] [^A^d9/8g/4] [g17/4z/4] [Gz/2] [F,F2c/8f/8^g/8c'7/2]
+[c7/8f7/8^g7/8z3/8] [^Gz/2] [cf^gF,z/2] [^G/2z/4] C,/4
+[c/8f/8^g/8F,/2^G,2F2] [c7/8f7/8^g7/8z3/8] [^GF,3/2z/2] [cf^gz/2]
+[^G/2c'/2] [^C,^C2^cf^gz/2] [^Gz/2] [^cf^g^C,z/2] [^G/2z/4] ^G,/4
+[^cf^g^C,/2^G,2^C2] [^G^C,3/2z/2] [^cf^gz/2] ^G/2 [^G,=c^d^gc'4z/2]
+[^Gz/2] [c^d^g^G,z/2] [^G/2z/4] ^D,/4 [c^d^g^G,/2=C2^G/2]
+[^G^G,3/2z/2] [c9/8^d^g9/8z/2] [^Gz/2] [^D,^D2^A^d/8=g/8^a/8]
+[^d7/8g7/8^a2z3/8] [=Gz/2] [^A^dg^D,z/2] [G/2z/4] ^A,/4
+[^A^d/8g/8^D,/2^A,2^D2] [^d7/8g7/8^a2z3/8] [G^D,3/2z/2] [^A^d9/8g/4]
+[g17/4z/4] [Gz/2] [F,F2c/8f/8^g/8c'7/2] [c7/8f7/8^g7/8z3/8] [^Gz/2]
+[cf^gF,z/2] [^G/2z/4] =C,/4 [c/8f/8^g/8F,/2^G,2F2]
+[c7/8f7/8^g7/8z3/8] [^GF,3/2z/2] [cf^gz/2] [^G/2c'/2]
+[^C,^C2^cf^gz/2] [^Gz/2] [^cf^g^C,z/2] [^G/2z/4] ^G,/4
+[^cf^g^C,/2^G,2^C2] [^G^C,3/2z/2] [^cf^gz/2] ^G/2 [=C,=C2=c^d^G/2^g2]
+^G/2 [c^d^G/2C,] [^G/2z/4] =G,/4 [c^d^G/2C,/2^G,2C2] [^G/2C,3/2]
+[c^d^G/2] [^Gz/2] [^A,^A^cf^a2z/2] [Fz/2] [^A^cf^A,z/2] [F19/8z/2]
+[^c15/8^a^A,15/8^C2^A15/8z/2] c'3/8 z/8 [^a7/8z3/8] ^g/2
+[^F,19/8^F19/8^A19/8^c/4^f3/8^a/2] [^c17/8z/8] [^f9/4z/8]
+[^a21/4z15/8] [=F,19/8=F19/8^G/8^c/4=f/2^g5/8] [^G9/4z/8] [^c5/2z/4]
+[f5/2z/8] ^g7/4 [^G,61/8^G3/8=c5/8^d3/4^gz/4] [^D61/8z/8] [^G61/8z/4]
+[c61/8z/8] [^d61/8z/4] ^g59/8 
